@@ -1,7 +1,6 @@
 #include "main.h"
 /**
- * _strncat -concatena dos strings
- * 
+ * _strncat -concatena dos strings 
  * @dest:  value
  * @src:  value
  * @n:  value
