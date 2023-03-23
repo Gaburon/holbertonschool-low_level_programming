@@ -1,7 +1,7 @@
 #include "3-calc.h"
 #include <stdio.h>
-#include "function_pointers.h"
 #include <stdlib.h>
+#include "function_pointers.h"
 
 int main(int __attribute__((__unused__)) argc, char *argv[])
 {
